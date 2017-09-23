@@ -1,13 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Instituicao.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Escola.Library Status">
     <Files>
       <File FileName="MyClass.cs" Line="1" Column="1" />
-      <File FileName="Boletim.cs" Line="1" Column="1" />
-      <File FileName="BoletimDisciplina.cs" Line="1" Column="1" />
-      <File FileName="Disciplina.cs" Line="1" Column="1" />
-      <File FileName="Aluno.cs" Line="1" Column="1" />
-      <File FileName="Curso.cs" Line="1" Column="1" />
-      <File FileName="Instituicao.cs" Line="1" Column="1" />
+      <File FileName="Boletim.cs" Line="18" Column="56" />
+      <File FileName="BoletimDisciplina.cs" Line="19" Column="86" />
+      <File FileName="Disciplina.cs" Line="16" Column="77" />
+      <File FileName="Aluno.cs" Line="17" Column="56" />
+      <File FileName="Curso.cs" Line="10" Column="10" />
+      <File FileName="Instituicao.cs" Line="11" Column="9" />
+      <File FileName="Escola.Library Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
